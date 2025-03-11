@@ -6,7 +6,7 @@
     },
     {
         "id": 1,
-        "logo": "/Assets/logo.png",
+        "logo": "/realestate/Assets/logo.png",
         "alt": "logo"
     },
     {
@@ -21,21 +21,21 @@
                 "id": 1,
                 "title": "Villas",
                 "description": "Experience luxury living in elegantly designed villas that blend sophistication with comfort. Nestled in serene surroundings, these spacious homes feature premium architecture, lush green landscapes, and world-class amenities. Enjoy breathtaking views, private gardens, and state-of-the-art interiors with high-end fittings. Whether you seek relaxation by the poolside, a modern home office, or an exclusive entertainment space, these villas provide the perfect setting for a lavish lifestyle. Each villa is designed to offer privacy, security, and an unparalleled living experience, making it the ultimate dream home.",
-                "image": "/Assets/Villas.png",
+                "image": "/realestate/Assets/Villas.png",
                 "alt": "Villas"
             },
             {
                 "id": 2,
                 "title": "Independent Buildings",
                 "description": "Discover the charm of independent houses designed for ultimate comfort and privacy. These spacious homes offer ample room for families to grow, with personalized interiors, large balconies, and exclusive outdoor spaces. Unlike apartments, independent houses provide complete freedom in terms of customization, ensuring that every aspect of your home reflects your unique style. Enjoy peaceful living without the constraints of shared walls, with the added advantage of a private garden, parking area, and rooftop terrace. Perfect for those who value personal space and long-term investment, independent houses provide a lifestyle that balances tradition with modern living.",
-                "image": "/Assets/Independent_house.png",
+                "image": "/realestate/Assets/Independent_house.png",
                 "alt": "Independent house"
             },
             {
                 "id": 3,
                 "title": "Apartments",
                 "description": "Explore modern apartments that offer state-of-the-art amenities and the convenience of urban living. Designed for contemporary lifestyles, these apartments come equipped with world-class facilities such as fitness centers, swimming pools, kids' play areas, and 24/7 security. Located in prime areas, they provide easy access to schools, offices, shopping malls, and entertainment hubs. Whether you're a young professional, a growing family, or a retiree looking for a hassle-free lifestyle, apartments offer a perfect blend of comfort, community, and connectivity. With sleek interiors, open layouts, and energy-efficient designs, these apartments redefine modern living with a touch of luxury.",
-                "image": "/Assets/Apartments.png",
+                "image": "/realestate/Assets/Apartments.png",
                 "alt": "Apartments"
             }
         ]
@@ -51,7 +51,7 @@
         "card": [
             {
                 "id": 1,
-                "icon": "/Assets/Villas_logo.png",
+                "icon": "/realestate/Assets/Villas_logo.png",
                 "title": "Villa",
                 "Features": [
                     "🏰 Luxury Living – Premium architecture & design",
@@ -63,7 +63,7 @@
             },
             {
                 "id": 2,
-                "icon": "/Assets/Independent_house_logo.png",
+                "icon": "/realestate/Assets/Independent_house_logo.png",
                 "title": "Independent House",
                 "Features": [
                     "🏡 Spacious Living - Large rooms & outdoor space",
@@ -76,7 +76,7 @@
             },
             {
                 "id": 3,
-                "icon": "/Assets/Apartment_logo.png",
+                "icon": "/realestate/Assets/Apartment_logo.png",
                 "title": "Apartment",
                 "Features": [
                     "🏢 Modern Design - Contemporary stylish looks",
@@ -93,25 +93,25 @@
         "carousel": [
             {
                 "id": 1,
-                "image": "/Assets/Carousel_item1.png",
+                "image": "/realestate/Assets/Carousel_item1.png",
                 "title": "Skilled Workforce",
                 "description": "Highly trained professionals ensuring quality construction."
             },
             {
                 "id": 2,
-                "image": "/Assets/Carousel_item2.png",
+                "image": "/realestate/Assets/Carousel_item2.png",
                 "title": "Safety First",
                 "description": "Strict safety protocols to protect workers and the environment."
             },
             {
                 "id": 3,
-                "image": "/Assets/Carousel_item3.png",
+                "image": "/realestate/Assets/Carousel_item3.png",
                 "title": "Sustainable Practices",
                 "description": "Eco-friendly building methods for a greener future."
             },
             {
                 "id": 4,
-                "image": "/Assets/Carousel_item4.png",
+                "image": "/realestate/Assets/Carousel_item4.png",
                 "title": "Mega Projects",
                  "description": "Constructing world-class infrastructure and landmarks."
             }
