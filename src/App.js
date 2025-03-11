@@ -1,25 +1,45 @@
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Header from './Components/Parent/Header'
+import Hero from './Components/Parent/Hero';
+import Tab from './Components/Parent/Tab';
+import Card from './Components/Parent/Card';
+import Carousel from './Components/Parent/Carousel';
+import Accordion from './Components/Parent/Accordion';
+import Grid from './Components/Parent/Grid';
+import Form from './Components/Parent/Form';
+import Table from './Components/Parent/Table';
+
+import CarouselTheme from './Components/Child/CarouselTheme';
+import Search from './Components/Child/Search';
+import Data from './data.json';
 
 function App() {
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+    <Routes>
+    <Route path = "/" element = {
+      <div className='App'>
+        <Header />
+        <Hero />
+        <Tab />
+        <Card />
+        <Carousel />
+        <Accordion />
+        <Grid />
+        <Form />
+        <CarouselTheme />
+        <Search />
+      </div>
+    }/>
+
+      <Route path = "/table" element = {<Table />}/>
+
+    </Routes>
+    </Router>
   );
+  
 }
 
 export default App;
