@@ -1,0 +1,341 @@
+[
+
+    {
+        "id": 0,
+        "button": "Contact"
+    },
+    {
+        "id": 1,
+        "logo": "/realestate/Assets/logo.png",
+        "alt": "logo"
+    },
+    {
+        "id": 2,
+        "title": "Building Dreams, Crafting Excellence",
+        "desc": "At Pothineni Constructions, we transform ideas into reality with precision, quality, and innovation. From dream homes to commercial landmarks, we build with integrity and expertise."
+    },
+    {
+        "id": 3,
+        "tabs": [
+            {
+                "id": 1,
+                "title": "Villas",
+                "description": "Experience luxury living in elegantly designed villas that blend sophistication with comfort. Nestled in serene surroundings, these spacious homes feature premium architecture, lush green landscapes, and world-class amenities. Enjoy breathtaking views, private gardens, and state-of-the-art interiors with high-end fittings. Whether you seek relaxation by the poolside, a modern home office, or an exclusive entertainment space, these villas provide the perfect setting for a lavish lifestyle. Each villa is designed to offer privacy, security, and an unparalleled living experience, making it the ultimate dream home.",
+                "image": "/realestate/Assets/Villas.png",
+                "alt": "Villas"
+            },
+            {
+                "id": 2,
+                "title": "Independent Buildings",
+                "description": "Discover the charm of independent houses designed for ultimate comfort and privacy. These spacious homes offer ample room for families to grow, with personalized interiors, large balconies, and exclusive outdoor spaces. Unlike apartments, independent houses provide complete freedom in terms of customization, ensuring that every aspect of your home reflects your unique style. Enjoy peaceful living without the constraints of shared walls, with the added advantage of a private garden, parking area, and rooftop terrace. Perfect for those who value personal space and long-term investment, independent houses provide a lifestyle that balances tradition with modern living.",
+                "image": "/realestate/Assets/Independent_house.png",
+                "alt": "Independent house"
+            },
+            {
+                "id": 3,
+                "title": "Apartments",
+                "description": "Explore modern apartments that offer state-of-the-art amenities and the convenience of urban living. Designed for contemporary lifestyles, these apartments come equipped with world-class facilities such as fitness centers, swimming pools, kids' play areas, and 24/7 security. Located in prime areas, they provide easy access to schools, offices, shopping malls, and entertainment hubs. Whether you're a young professional, a growing family, or a retiree looking for a hassle-free lifestyle, apartments offer a perfect blend of comfort, community, and connectivity. With sleek interiors, open layouts, and energy-efficient designs, these apartments redefine modern living with a touch of luxury.",
+                "image": "/realestate/Assets/Apartments.png",
+                "alt": "Apartments"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "🏡 Explore Premium Living Spaces",
+        "desc": "Discover the perfect home that suits your lifestyle. Whether you seek a modern apartment with top-notch amenities, a spacious independent house with private space, or a luxurious villa with breathtaking views, we offer the finest choices to elevate your living experience. "
+       
+    },
+    {
+        "id": 5,
+        "card": [
+            {
+                "id": 1,
+                "icon": "/realestate/Assets/Villas_logo.png",
+                "title": "Villa",
+                "Features": [
+                    "🏰 Luxury Living – Premium architecture & design",
+                    "🏊 Private Pool – Exclusive pools for relaxation",
+                    "🔒 Gated Security – Top-tier security for elite living",
+                    "🎨 Elegant Interiors – Premium-quality furnishings",
+                    "🌅 Scenic Views – Stunning views and open terraces"
+                ]
+            },
+            {
+                "id": 2,
+                "icon": "/realestate/Assets/Independent_house_logo.png",
+                "title": "Independent House",
+                "Features": [
+                    "🏡 Spacious Living - Large rooms & outdoor space",
+                    "🌳 Personal Garden - Enjoy your own greenery",
+                    "🚗 Private Parking - Dedicated space for vehicles",
+                    "🏗️ Customization - Modify interiors your way",
+                    "🏘️ Community Living - Peaceful neighborhoods"
+                    
+                ]
+            },
+            {
+                "id": 3,
+                "icon": "/realestate/Assets/Apartment_logo.png",
+                "title": "Apartment",
+                "Features": [
+                    "🏢 Modern Design - Contemporary stylish looks",
+                    "🏊 Amenities -  Gym, pool & clubhouse access",
+                    "🚆 Prime Locations - Close to transport & city hubs",
+                    "🔒 Security - 24/7 security and gated communities",
+                    "🌿 Green Spaces - Landscaped gardens"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "carousel": [
+            {
+                "id": 1,
+                "image": "/realestate/Assets/Carousel_item1.png",
+                "title": "Skilled Workforce",
+                "description": "Highly trained professionals ensuring quality construction."
+            },
+            {
+                "id": 2,
+                "image": "/realestate/Assets/Carousel_item2.png",
+                "title": "Safety First",
+                "description": "Strict safety protocols to protect workers and the environment."
+            },
+            {
+                "id": 3,
+                "image": "/realestate/Assets/Carousel_item3.png",
+                "title": "Sustainable Practices",
+                "description": "Eco-friendly building methods for a greener future."
+            },
+            {
+                "id": 4,
+                "image": "/realestate/Assets/Carousel_item4.png",
+                "title": "Mega Projects",
+                 "description": "Constructing world-class infrastructure and landmarks."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "About Us",
+        "accordion":[
+            {
+                "id": 1,
+                "title": "About Pothineni Constructions",
+                "content": "Pothineni Constructions is a renowned name in the construction industry, delivering high-quality projects with innovation and precision. Our commitment to excellence ensures that every structure we build stands the test of time."
+              },
+              {
+                "id": 2,
+                "title": "Our Vision & Commitment",
+                "content": "We strive to redefine construction excellence by prioritizing sustainability, safety, and superior craftsmanship in every project. Our goal is to create spaces that seamlessly blend functionality with aesthetic appeal."
+              },
+              {
+                "id": 3,
+                "title": "Why Choose Us?",
+                "content": "With years of industry expertise and a dedicated team, we bring innovation, reliability, and unmatched quality to every construction endeavor. We believe in building not just structures but long-term relationships based on trust and excellence."
+              }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Our Specifications",
+        "desc": "Explore the high-quality materials and modern construction standards that define our homes. From robust structures to elegant interiors, every detail is designed for durability, comfort, and style.",
+        "grid" :[
+        {
+            "id": 1,
+            "icon": "🧱",
+            "title": "Structure",
+            "description": "R.C.C. pile foundation with AAC blocks (Light weight bricks) / Clay bricks in cement mortar."
+          },
+          {
+            "id": 2,
+            "icon": "📏",
+            "title": "Flooring",
+            "description": "Vitrified tiles in utility/wash area. Marble tiles in hall, dining, kitchen, bedrooms, toilets and balconies."
+          },
+          {
+            "id": 3,
+            "icon": "🚪",
+            "title": "Doors",
+            "description": "Teak wood frames having good quality of flush doors with hardware fittings for both main and internal doors."
+          },
+          {
+            "id": 4,
+            "icon": "🪟",
+            "title": "Windows",
+            "description": "Reputed make UPVC sliding windows fitted with iron grills and glass."
+          },
+          {
+            "id": 5,
+            "icon": "🍽️",
+            "title": "Kitchen",
+            "description": "Granite top platform and stainless steel sink. Provision for fixing water purifier, exhaust fan, and chimney."
+          },
+          {
+            "id": 6,
+            "icon": "🚿",
+            "title": "Toilets",
+            "description": "Each toilet will have one wash basin, EWC/WC, shower point, glazed tiles up to 7' height for walls and CP fittings."
+          },
+          {
+            "id": 7,
+            "icon": "🎨",
+            "title": "Painting",
+            "description": "Putty for internal walls, exterior emulsion for external wall, plastic emulsion for ceiling, and enamel paint (2 coatings) for doors."
+          },
+          {
+            "id": 8,
+            "icon": "⚡",
+            "title": "Electrical",
+            "description": "Concealed copper wiring in modular switches. Adequate fan, TV, telephone points and 15A/5A power plugs."
+          },
+          {
+            "id": 9,
+            "icon": "🛣️",
+            "title": "Roads",
+            "description": "Black top roads as per R&B specifications / CC roads."
+          },
+          {
+            "id": 10,
+            "icon": "🌲",
+            "title": "Plantation",
+            "description": "Planting trees along the road sides covering the entire avenue."
+          },
+          {
+            "id": 11,
+            "icon": "💧",
+            "title": "Water",
+            "description": "Municipal water provision, water sump and water tank up to 2000 litres capacity to individual house."
+          },
+          {
+            "id": 12,
+            "icon": "🗑️",
+            "title": "Sewage",
+            "description": "Open drainage canals and septic tank to individual house."
+          }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Contact Us!"
+    },
+    {
+        "id": 10,
+        "title": "User's Data!"
+    },
+
+    {
+      "id": 11,
+      "searchItems": [
+        {
+          "title": "Building Construction",
+          "description": "Building construction involves site preparation, foundation work, and structural development."
+        },
+        {
+          "title": "Modern Architecture",
+          "description": "Modern architecture features clean lines, open spaces, and innovative materials."
+        },
+        {
+          "title": "Interior Design",
+          "description": "Interior design focuses on creating aesthetically pleasing and functional indoor spaces."
+        },
+        {
+          "title": "Urban Planning",
+          "description": "Urban planning involves designing sustainable cities with efficient infrastructure."
+        },
+        {
+          "title": "Landscape Design",
+          "description": "Landscape design includes garden layouts, outdoor aesthetics, and green spaces."
+        },
+        {
+          "title": "Sustainable Housing",
+          "description": "Sustainable housing integrates eco-friendly materials and energy-efficient designs."
+        }
+      ]
+    },
+    
+
+
+   
+    {
+      "id": 12,
+      "themes": [
+        {
+          "id": 1,
+          "name": "construction",
+          "images": [
+            {
+              "id": 1,
+              "image": "/assets/construction1.jpg",
+              "title": "Building Progress",
+              "description": "Ongoing site construction."
+            },
+            {
+              "id": 2,
+              "image": "/assets/construction2.jpg",
+              "title": "Safety First",
+              "description": "Workers with protective gear."
+            },
+            {
+              "id": 3,
+              "image": "/assets/construction3.jpg",
+              "title": "Heavy Machinery",
+              "description": "Cranes lifting materials."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "architecture",
+          "images": [
+            {
+              "id": 1,
+              "image": "/assets/architecture1.jpg",
+              "title": "Modern Design",
+              "description": "A sleek architectural structure."
+            },
+            {
+              "id": 2,
+              "image": "/assets/architecture2.jpg",
+              "title": "Historical Charm",
+              "description": "Blending old and new styles."
+            },
+            {
+              "id": 3,
+              "image": "/assets/architecture3.jpg",
+              "title": "Urban Skyline",
+              "description": "Cityscape with creative buildings."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "interior",
+          "images": [
+            {
+              "id": 1,
+              "image": "/assets/interior1.jpg",
+              "title": "Cozy Living Room",
+              "description": "Minimalist interior decor."
+            },
+            {
+              "id": 2,
+              "image": "/assets/interior2.jpg",
+              "title": "Luxury Bedroom",
+              "description": "Elegant bedroom with soft lighting."
+            },
+            {
+              "id": 3,
+              "image": "/assets/interior3.jpg",
+              "title": "Kitchen Aesthetics",
+              "description": "Modern kitchen with stylish decor."
+            }
+          ]
+        }
+      ]
+    }
+    
+    
+]
