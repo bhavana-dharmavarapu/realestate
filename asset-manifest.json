@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/realestate/static/css/main.27d31be7.css",
+    "main.js": "/realestate/static/js/main.4e60e44b.js",
+    "static/media/carousel_theme_1.1.png": "/realestate/static/media/carousel_theme_1.1.07ef349fa2a3d68280aa.png",
+    "static/media/carousel_theme_2.3.png": "/realestate/static/media/carousel_theme_2.3.2a2199ec8b0bbcab6c74.png",
+    "static/media/carousel_theme_1.2.png": "/realestate/static/media/carousel_theme_1.2.048e0bcef32453566a7c.png",
+    "static/media/carousel_theme_1.3.png": "/realestate/static/media/carousel_theme_1.3.55a45841a0f722d17130.png",
+    "static/media/carousel_theme_2.2.png": "/realestate/static/media/carousel_theme_2.2.dcc13248fc0714f4a9db.png",
+    "static/media/carousel_theme_2.1.png": "/realestate/static/media/carousel_theme_2.1.921b751a705d1ee583e3.png",
+    "static/media/Form.png": "/realestate/static/media/Form.bbf0a84e8f72c8c952e1.png",
+    "static/media/carousel_theme_3.1.png": "/realestate/static/media/carousel_theme_3.1.bf5499047160c9bf43e3.png",
+    "static/media/hero.png": "/realestate/static/media/hero.f0e0c8438ba2aea06ab4.png",
+    "static/media/carousel_theme_3.2.png": "/realestate/static/media/carousel_theme_3.2.d3253896dc766111cf3d.png",
+    "static/media/carousel_theme_3.3.png": "/realestate/static/media/carousel_theme_3.3.353a9aa65bef318d782e.png",
+    "index.html": "/realestate/index.html",
+    "main.27d31be7.css.map": "/realestate/static/css/main.27d31be7.css.map",
+    "main.4e60e44b.js.map": "/realestate/static/js/main.4e60e44b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27d31be7.css",
+    "static/js/main.4e60e44b.js"
+  ]
+}
